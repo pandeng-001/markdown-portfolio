@@ -19,6 +19,7 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
+{% include 06-info.md %}
 
 <div style="display: flex;">
 
